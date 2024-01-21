@@ -1,0 +1,237 @@
+
+
+body {
+    border: none;
+    margin: 0;
+    padding: 0;
+    background-color: #DDE6ED;
+
+width: 100%;
+}
+
+#greeting{
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    font-size: 5rem;
+    margin-bottom: 1rem;
+
+}
+
+#name{
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    font-size: 3rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#specialty{
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Tektur', cursive;
+    margin-top: 1rem;
+}
+
+#click{
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Tektur', cursive;
+    margin-top: 0rem;
+}
+
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 100%;
+    width: 100%;
+    background-color: #97FEED;
+
+
+
+}
+
+.about {
+    color: #001F3F;
+    text-align: center;
+
+
+}
+#about{
+    font-size: xxx-large;
+}
+
+.cloud{
+    border-radius: 50%;
+    height: 10rem;
+    display: inline-flex;
+   justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#cloud2{
+    position: relative;
+
+    border-radius: 50%;
+    height: 10rem;
+    margin-right: 10rem;
+
+}
+
+#cloud3{
+    position: relative;
+
+    border-radius: 50%;
+    height: 10rem;
+    margin-left: 10rem;
+}
+
+#mtn{
+height: 20EM;
+    border-radius: 50%;
+
+}
+
+
+
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+#profile{
+    position: relative;
+    margin: 0px;
+     max-height: 100%;
+    border-radius: 50%;
+    height: 10rem;
+
+
+}
+.about{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 40px;
+    top: 100px;
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+
+
+}
+
+.about2{
+    text-align: center;
+    font-size: xxx-large;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    top: 100px;
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    color: #001F3F;
+}
+
+hr{
+
+    border-top: 10px double ;
+    width: 10%;
+    border-color: #001F3F}
+
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 0.5rem;
+
+}
+.subcontainer{
+    display: inline-flex;
+    justify-content: center;
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    font-size: xx-large;
+
+}
+
+.list{
+    list-style-type: none;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+    color: #333333;
+    font-weight: bold;
+}
+.contactline{
+    text-align: center;
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    color: #001F3F;
+font-size: xx-large;
+
+}
+
+.subimg{
+    margin: 0;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0px;
+
+}
+
+#GIT{
+    font-size: xxx-large;
+    margin-top: 5rem;
+}
+
+
+.contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #001F3F;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Borel', cursive;
+    font-family: 'Handlee', cursive;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.contact-button:hover {
+    background-color: #FFFFFF;
+    color: #001F3F;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #97FEED;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1rem;
+    color: #001F3F;
+}
+
+.arrow{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#arrow{
+    height: 3rem;
+
+}
+
